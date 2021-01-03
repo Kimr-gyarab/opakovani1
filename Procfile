@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* com.example.opakovani1
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* cz.gyarab.web.opakovani1
